@@ -1,0 +1,203 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch tekrar",
+            "request": "launch",
+            "mainClass": "TekrarMethodsClass.tekrar",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cars",
+            "request": "launch",
+            "mainClass": "CarsClasses.Cars",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch classAttributeField",
+            "request": "launch",
+            "mainClass": "ClassProduct.classAttributeField",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch arkadasSayi",
+            "request": "launch",
+            "mainClass": "Derlemeler.arkadasSayi",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch alanHesapla",
+            "request": "launch",
+            "mainClass": "Metodlar.alanHesapla",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodOverloding",
+            "request": "launch",
+            "mainClass": "Metodlar.metodOverloding",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodlar1",
+            "request": "launch",
+            "mainClass": "Metodlar.metodlar1",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch quizMethod2",
+            "request": "launch",
+            "mainClass": "Metodlar.quizMethod2",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch quizMetod",
+            "request": "launch",
+            "mainClass": "Metodlar.quizMetod",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch asal",
+            "request": "launch",
+            "mainClass": "asal",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSerisi",
+            "request": "launch",
+            "mainClass": "fibonacciSerisi",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch hesapMakinesi",
+            "request": "launch",
+            "mainClass": "hesapMakinesi",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch kullaniciGiris",
+            "request": "launch",
+            "mainClass": "kullaniciGiris",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch metod2",
+            "request": "launch",
+            "mainClass": "metod2",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodlar",
+            "request": "launch",
+            "mainClass": "metodlar",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodlar1(1)",
+            "request": "launch",
+            "mainClass": "metodlar1",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch mukemmelSayi",
+            "request": "launch",
+            "mainClass": "mukemmelSayi",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch ortalamaHesaplama",
+            "request": "launch",
+            "mainClass": "ortalamaHesaplama",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch overloadingMethods",
+            "request": "launch",
+            "mainClass": "overloadingMethods",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch parametreliMetods",
+            "request": "launch",
+            "mainClass": "parametreliMetods",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursiveMethods",
+            "request": "launch",
+            "mainClass": "recursiveMethods",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch returnMethod",
+            "request": "launch",
+            "mainClass": "returnMethod",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch sayiBulma",
+            "request": "launch",
+            "mainClass": "sayiBulma",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch scan",
+            "request": "launch",
+            "mainClass": "scan",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchCase",
+            "request": "launch",
+            "mainClass": "switchCase",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch tekrar",
+            "request": "launch",
+            "mainClass": "tekrar",
+            "projectName": "JavaYoutube_34cb3691"
+        },
+        {
+            "type": "java",
+            "name": "Launch ucakBiletHesaplama",
+            "request": "launch",
+            "mainClass": "ucakBiletHesaplama",
+            "projectName": "JavaYoutube_34cb3691"
+        }
+    ]
+}
